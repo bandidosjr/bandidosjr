@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandidosjr
-- 🌱 I’m currently learning HTML, PHP & CSS
+- 🌱 I’m currently learning HTML/CSS/JavaScript (React) & PHP
 - 💞️ I’m looking to collaborate on a Projekt with someone
 
 <!---
