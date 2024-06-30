@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandidosjr
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 🌱 I’m currently learning Java
 - 🚀 I’m looking to collaborate on a Project with someone
 
 
